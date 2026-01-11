@@ -1,0 +1,19 @@
+# module anti passages à la ligne inopportuns
+
+Module qui s'adresse plutôt aux français du fait de notre gestion de certains caractères et donc readme en français, désolé 😊\
+This module is primarily intended for French users due to our handling of certain characters, hence the readme is in French. Sorry about that 😊
+
+et bon, module qui peut surtout intéresser quelques boomers maniaques dont je suis, évidemment ceux qui écrivent "ça va" sur les réseaux soi-disant sociaux foutez la paix à processwire et passez votre chemin 😈😛
+
+## bon, c'est quoi l'histoire du coup
+
+petite vidéo à venir sur ma chaîne youtube pour l'expliquer et montrer le fonctionnement, je mets le lien dès que c'est prêt et je mettrai le readme à jour aussi sec
+
+en attendant, il s'agit d'empêcher les retours à la ligne juste avant juste avant les : ; ? ! " ‘ ’ “ ” / ou après dans le cas des guillemets ouvrants\
+ça ne concerne que les champs text ou textearea mais ni ckeditor ni tinyMCE pour lesquels il y a les boutons ou raccourcis pour insérer des espaces insécables si besoin, ce que ce module fait automatiquement là où les champs de type texte brut non\
+ça va surtout servir pour les champs de titraille avec des... titres un peu longs finissant par ! ou ? ou utilisant des guillemets à la française, mais pas que, dans un texdtarea pas richtext les occurences sont mutiples
+
+**TRÈS IMPORTANT**\
+si vous utilisez ce module sur des champs qui utilisent aussi le module **_Encodeur d'entités HTML (htmlspecialchars)_** mettez **_"Textformatter Insécable_**" APRÈS sinon les espaces insécables `&nbsp;` vont aussi ête encodés et apparaîtront tels quels en front\
+je remets ça dans le readme qui accompagne le module
+
