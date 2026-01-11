@@ -7,7 +7,7 @@ et bon, module qui peut surtout intéresser quelques boomers maniaques dont je s
 
 ## bon, c'est quoi l'histoire du coup
 
-petite vidéo à venir sur ma chaîne youtube pour l'expliquer et montrer le fonctionnement, je mets le lien dès que c'est prêt et je mettrai le readme à jour aussi sec
+[petite vidéo sur ma chaîne youtube pour expliquer tout ça](https://www.youtube.com/watch?v=aMMkZncbQDI)
 
 en attendant, il s'agit d'empêcher les retours à la ligne juste avant juste avant les : ; ? ! " ‘ ’ “ ” / ou après dans le cas des guillemets ouvrants\
 ça ne concerne que les champs text ou textearea mais ni ckeditor ni tinyMCE pour lesquels il y a les boutons ou raccourcis pour insérer des espaces insécables si besoin, ce que ce module fait automatiquement là où les champs de type texte brut non\

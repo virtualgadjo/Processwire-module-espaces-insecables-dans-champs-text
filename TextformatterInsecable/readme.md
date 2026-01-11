@@ -9,3 +9,6 @@ petit module pour empêcher les retours à la ligne juste avant les : ; ? ! " �
 **TRÈS IMPORTANT**\
 si vous utilisez ce module sur des champs qui utilisent aussi le module **_Encodeur d'entités HTML (htmlspecialchars)_** mettez **_"Textformatter Insécable_**" APRÈS sinon les espaces insécables `&nbsp;` vont aussi ête encodés et apparaîtront tels quels en front
 
+lien vers une vidéo qui explique tout ça
+https://www.youtube.com/watch?v=aMMkZncbQDI
+
