@@ -3,7 +3,7 @@
 Module qui s'adresse plutôt aux français du fait de notre gestion de certains caractères et donc readme en français, désolé 😊\
 This module is primarily intended for French users due to our handling of certain characters, hence the readme is in French. Sorry about that 😊
 
-et bon, module qui peut surtout intéresser quelques boomers maniaques dont je suis, évidemment ceux qui écrivent "ça va" sur les réseaux soi-disant sociaux foutez la paix à processwire et passez votre chemin 😈😛
+et bon, module qui peut surtout intéresser quelques boomers maniaques dont je suis, évidemment, ceux qui écrivent "sa va ?" sur les réseaux soi-disant sociaux mrtci d'aller voir ailleurs si j'y suis 😈😛
 
 ## bon, c'est quoi l'histoire du coup
 
