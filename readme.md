@@ -13,6 +13,8 @@ en bref, il s'agit d'empêcher les retours à la ligne juste avant les : ; ? ! "
 ça ne concerne que les champs text ou textearea mais ni ckeditor ni tinyMCE pour lesquels il y a les boutons ou raccourcis pour insérer des espaces insécables si besoin, ce que ce module fait automatiquement là où les champs de type texte brut non\
 ça va surtout servir pour les champs de titraille avec des... titres, nooon, sans blague, un peu longs finissant par ! ou ? ou utilisant des guillemets à la française, mais pas que, dans un texdtarea pas richtext les occurences peuvent être mutiples
 
+j'ai ajouté une archive zip du module comme ça, ceux qui préfèrent, comme moi..., organiser leur dossier /site/modules avec desz sous-dossisrs, hop, juste à décompresser la bête le dossier créé aura le bon nom et c'est fait
+
 **TRÈS IMPORTANT**\
 si vous utilisez ce module sur des champs qui utilisent aussi le module **_Encodeur d'entités HTML (htmlspecialchars)_** mettez **_"Textformatter Insécable_**" APRÈS sinon les espaces insécables `&nbsp;` vont aussi ête encodés et apparaîtront tels quels en front\
 je remets ça dans le readme qui accompagne le module
