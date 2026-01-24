@@ -1,3 +1,16 @@
+anti-unwanted line break module
+
+short readme text for those who don't like Markdown, which I can understand...
+
+by l'ôt fou aka virtualgadjo but hey, who cares...
+
+small module to prevent line breaks just before : ; ? ! " ‘ ’ “ ” / or after in the case of opening quotation marks
+
+this only applies to text or textarea fields, but not ckeditor or tinyMCE, which have buttons or shortcuts to insert non-breaking spaces, which this module does automatically  where plain text fields do not
+
+VERY IMPORTANT
+if you use this module on fields that also use the _HTML Entity Encoder (htmlspecialchars)_** module, put ‘Textformatter Non-breaking’ AFTER, otherwise the non-breaking spaces &nbsp; will also be encoded and will appear as such on the front end.
+
 module anti passages à la ligne inopportuns
 
 petit readme en texte pour les ceusses qui n'aiment pas le markdown et que je peux comprendre...
