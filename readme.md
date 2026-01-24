@@ -1,4 +1,4 @@
-# module anti passages à la ligne inopportuns
+# anti-unwanted line break module<br />module anti passages à la ligne inopportuns
 
 This module is mainly intended for French users due to our handling of certain characters, but you never know.\
 Module qui s'adresse plutôt aux français du fait de notre gestion de certains caractères mais bon, on ne sait jamais
